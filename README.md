@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hola, soy Alexis Gonzalez
 
-<!--
-**Maxiii579/Maxiii579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Web Junior  
+📍 Argentina  
 
-Here are some ideas to get you started:
+Actualmente estoy aprendiendo y desarrollando proyectos con:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Node.js
+- C#
+
+---
+
+## 🚀 Proyectos
+
+🛍️ UrbanStyle - Tienda Online  
+Proyecto web de una tienda de ropa desarrollado con HTML, CSS y JavaScript.
+
+---
+
+## 🛠 Tecnologías
+
+HTML | CSS | JavaScript | SQL | Node.js
+
+---
+
+## 📫 Contacto
+
+LinkedIn: www.linkedin.com/in/alexis-gonzalez-b9005a267
+GitHub: https://github.com/Maxiii579
