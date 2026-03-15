@@ -30,4 +30,5 @@ HTML | CSS | JavaScript | SQL | Node.js
 ## 📫 Contacto
 
 LinkedIn: www.linkedin.com/in/alexis-gonzalez-b9005a267
+
 GitHub: https://github.com/Maxiii579
